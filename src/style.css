@@ -1,4 +1,18 @@
 body {
   background: linear-gradient(109.6deg, rgb(36, 45, 57) 11.2%, rgb(16, 37, 60) 51.2%, rgb(0, 0, 0) 98.6%);
+  text-align: center;
+  color: rgb(255, 255, 255);
+  max-width: 500px;
+  margin: 0 auto;
+}
+.current-forecast{
+
+background-color: rgb(255, 255, 255,0.2);
+
+}
+
+.future-forecast {
+  
+  background-color: rgb(255, 255, 255,0.2);
   
 }
